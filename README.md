@@ -12,4 +12,4 @@ A simple personal portfolio website made with HTML, CSS, and JS.
 ## How to View
 1. Clone the repo: 
    ```bash
-   git clone https://github.com/Zillian/portfolio.git
+   git clone https://github.com/ZillianZ/ZilliansPortfolio
